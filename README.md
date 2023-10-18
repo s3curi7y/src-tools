@@ -13,6 +13,7 @@
 ```
 chmod +x dnsquerylist
 ./dnsquerylist -device eth0	//指定网卡
+./dnsquerylist -device eth0|grep baidu.com //通过grep命令筛选解析请求。
 ```
 输出结果：
 ```
