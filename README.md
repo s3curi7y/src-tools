@@ -8,6 +8,7 @@
 ## dnsquerylist
 
 一款Linux系统下的DNS请求查看工具。
+
 使用方法：
 ```
 chmod +x dnsquerylist
