@@ -22,7 +22,7 @@ chmod +x dnsquerylist
 源IP地址：10.xxx.xxx.143，目标IP地址：114.114.114.114，源端口：51558，目标端口：53，域名：xxx.xxx.xxx.10.xx-xxx.xxx
 ```
 ## dnsquerylist
-将hex数据包转换wireshark打开的pacp文件
+将hex数据包转换wireshark支持打开的pacp文件
 使用方法：
 ```
 windows:
