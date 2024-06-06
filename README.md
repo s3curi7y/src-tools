@@ -21,3 +21,16 @@ chmod +x dnsquerylist
 源IP地址：10.xxx.xxx.143，目标IP地址：114.114.114.114，源端口：43566，目标端口：53，域名：xxx.xxx.xxx.180.xx-xxx.xxx
 源IP地址：10.xxx.xxx.143，目标IP地址：114.114.114.114，源端口：51558，目标端口：53，域名：xxx.xxx.xxx.10.xx-xxx.xxx
 ```
+## dnsquerylist
+将hex数据包转换wireshark打开的pacp文件
+使用方法：
+```
+windows:
+./hexpacp.exe .\est.txt "C:\Users\Administrator\xxxxxxxx\text2pcap.exe"
+```
+输出结果：
+```
+Temp file saved to .\est.tmp
+Conversion completed. Output saved to .\est.pacp
+Temp file deleted.
+```
